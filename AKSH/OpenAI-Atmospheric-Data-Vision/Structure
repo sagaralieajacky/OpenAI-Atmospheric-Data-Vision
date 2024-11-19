@@ -1,0 +1,9 @@
+OpenAI-Atmospheric-Data-Vision/
+│
+├── README.md                 # Project description
+├── requirements.txt          # Dependencies
+├── preprocess.py             # Data preprocessing script
+├── train_model.py            # AI model training script
+├── app.py                    # Flask API for deployment
+├── sample_data/              # Folder for sample datasets
+└── models/                   # Folder for saved AI models
